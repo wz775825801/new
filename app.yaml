@@ -6,4 +6,4 @@ threadsafe: no
 #sss 
 handlers:
 - url: /.*
-  script: helloworld.py
+  script: hellomaailm.py
